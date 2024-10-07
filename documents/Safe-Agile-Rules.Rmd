@@ -1,0 +1,46 @@
+---
+title: "Safe Agile Rules"
+output: html_document
+date: "2024-10-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Safe Agile Rules
+	- Runway jam (Miro board, meeting to align everyone with the objective and list items we need to add) -Saves 20-40 meetings 
+	- Fail Fast (Don’t do research spikes - Research and develop at the same time)
+	- Assigning people to Features to oversee them 
+	- Building Stories and Features
+		- Focus on the pain points not the application
+		- Paired Stories (Front end and backend) or item. 
+		- Limit the feature to one iteration so it can be demoed. 
+		- Keep the feature small and keep it simple
+		- Don't focus on the application or specific things. 
+		- Built things dynamic and put the control in the users. 
+	- Any time a story or feature is reviewed .comments need to be added to the notes on the discussion to track the history
+	- Keep Features and Stories Small
+		- If a feature is greater than 15-20 points it needs to be broken down to smaller chunks. 
+		- A story cannot be larger than 8 points. 
+		- A program EPIC is only one PI
+		- Add workflows to features
+		- Don’t create a story for every cookie crumb right size them up to a point
+	- An EPIC Portfolio is no longer than a year
+	- Build common component libraries that are reusable and module 
+	- Meet the week before Iteration review and test features in UAT
+		- Eliminates 60 second approval
+	- Build small and versatile. 
+	- Build in automation checks into the system
+	- Stories should not also be too small. Example don’t make a story 1  for every phone call or a sneeze. Right size a point worth 1 point of work 
+	- If a story is not completed in a PI. Do not move story or feature  to next PI. It won't show up in a PI. 
+	- If there is a blocker, reach out to appropriate skillsets. Don't create more stories. 
+	- Focus on the feature and the right acceptance criteria. 
+	- Third party stories should not go in developer features. Create your own features. 
+	- No stories are added to a feature if it's not in an acceptance criteria. 
+	- All features should have a placeholder story from acceptance criteria until the story is created.
+	- If a feature needs to be changed a new feature should be created. Including reason/ comments in notes to track the decisions
+	- Most features should have flow diagram and a CX mockup
+	- Story Templates by section or topic (Front End, Back End,  DB) with a list of best practices
+	- Story -> Feature  -> Program EPIC   -> EPIC Portfolio
+	- Be a part of the testing process in the beginning.

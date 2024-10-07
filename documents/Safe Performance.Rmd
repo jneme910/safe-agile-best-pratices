@@ -1,0 +1,93 @@
+---
+title: "Safe Performance Metrics for Success"
+output: html_document
+date: "2024-10-07"
+---
+# Safe Performance Metrics for Success
+
+# Portfolio Epics and Program Epics instead of software. 
+
+**Outcomes:** Focus on whether the solutions meet the needs of customers and the business. This can include metrics like customer satisfaction, user adoption rates, and business value delivered.
+
+**Flow:** Measure the efficiency of the organization in delivering value. Metrics such as lead time, cycle time, and throughput can be used to assess how quickly and effectively the team is delivering work.
+
+**Competency:** Evaluate the proficiency of the organization in practices that enable business agility. This can include metrics like team velocity, quality of code (e.g., defect rates), and adherence to agile practices
+
+
+# Team Maturity
+
+As teams age and mature, their ability to perform work more efficiently will likely improve. This maturation process requires a nuanced understanding of metrics to ensure that progress is measured accurately. We've discussed creating a "template" to standardize work estimates and determine if those estimates fall within an acceptable variance. This template serves as a guideline for evaluating team performance and ensuring consistency across the board.
+ 
+## Metrics in Team Maturation
+To track and measure the maturity of a team, consider the following metrics:
+ 
+1. **Velocity Trends:** Monitoring the team's velocity over multiple iterations can reveal patterns of improvement or areas needing support. Comparing these trends to the initial baseline velocity helps determine the team's growth.
+ 
+2. **Cycle Time:** Measuring the average time it takes to complete a task from start to finish gives insight into the team's efficiency. As teams mature, we should see a reduction in cycle time.
+ 
+3. **Throughput:** Tracking the number of tasks completed within a given period can indicate improvements in productivity. An increasing throughput suggests that the team is becoming more effective.
+ 
+4. **Defect Rates:** Lowering the rate of defects over time signifies enhanced quality and better adherence to standards. Mature teams should produce fewer defects as they refine their processes.
+ 
+5. **Work Estimation Accuracy:** Comparing estimated effort to actual effort provides a measure of estimation accuracy. As teams mature, their ability to estimate work more precisely should improve, reflected in lower variances between estimated and actual work.
+ 
+By closely monitoring these metrics, we can gain a clearer picture of how teams are evolving and ensure that our agile practices foster continuous improvement and efficiency.
+ 
+Got it! Let's dive deeper into specifics and examples of metrics that can track a team's maturation in agile software development:
+ 
+### Velocity Trends
+**Metric Specifics:** Velocity is measured by the number of story points a team completes in a sprint.
+ 
+**Example:**
+- **Sprint 1:** 30 story points
+- **Sprint 2:** 35 story points
+- **Sprint 3:** 40 story points
+ 
+**Analysis:** An upward trend in velocity over several sprints indicates the team's improving capacity and efficiency.
+ 
+### Cycle Time
+**Metric Specifics:** The average time taken to complete a task from start to finish.
+ 
+**Example:**
+- **Initial Cycle Time:** 7 days
+- **Cycle Time after 6 months:** 4 days
+ 
+**Analysis:** A reduction in cycle time shows that the team is becoming quicker at delivering tasks, likely due to better collaboration and streamlined processes.
+ 
+### Throughput
+**Metric Specifics:** The number of tasks completed in a specific period, such as a sprint.
+ 
+**Example:**
+- **Sprint 1:** 20 tasks completed
+- **Sprint 2:** 22 tasks completed
+- **Sprint 3:** 25 tasks completed
+ 
+**Analysis:** Increasing throughput signifies that the team is handling more work as they become more proficient.
+ 
+### Defect Rates
+**Metric Specifics:** The number of defects identified per sprint or release.
+ 
+**Example:**
+- **Sprint 1:** 10 defects
+- **Sprint 2:** 8 defects
+- **Sprint 3:** 5 defects
+ 
+**Analysis:** A decreasing defect rate indicates an improvement in the quality of the team's output, suggesting more robust testing and quality assurance practices.
+ 
+### Work Estimation Accuracy
+**Metric Specifics:** The variance between estimated effort and actual effort required to complete a task.
+ 
+**Example:**
+- **Initial Variance:** +/- 30% (e.g., estimated 5 days, actual 3-7 days)
+- **Variance after 6 months:** +/- 10% (e.g., estimated 5 days, actual 4.5-5.5 days)
+ 
+**Analysis:** Reduced variance means the team is getting better at estimating the effort needed, which helps in planning and predictability.
+ 
+### Utilization and Capacity
+**Metric Specifics:** The ratio of the amount of work completed to the total capacity available.
+ 
+**Example:**
+- **Capacity:** 100 hours
+- **Utilization:** 80 hours
+ 
+**Analysis:** A balanced utilization rate (e.g., 80-85%) indicates the team is neither underutilized.
